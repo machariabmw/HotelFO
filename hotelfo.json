@@ -1,8 +1,9 @@
 {
-  "version":"3.8.5.570",
-  "url":"https://github.com/machariabmw/POS_FrontOffice_Update/releases/download/v3.8/RayMacHFO3.8.5.570.exe",
+  "version":"3.8.6.000",
+  "url":"https://github.com/machariabmw/POS_FrontOffice_Update/releases/download/v3.8/RayMacHFO3.8.6.000.exe",
   "notes": [
     "Added Bills Combination For Cashier",
-    "Added F4 Key to Retrieve Bills"
+    "Added F4 Key to Retrieve Bills",
+    "Added Mobile Payments Processor for NCBA, Equity & Mpesa"
   ]
 }
