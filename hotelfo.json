@@ -1,9 +1,10 @@
 {
-  "version":"3.8.6.000",
-  "url":"https://github.com/machariabmw/HotelFO/releases/download/v3.8/RayMacHFO3.8.6.000.exe",
+  "version":"3.8.6.200",
+  "url":"https://github.com/machariabmw/HotelFO/releases/download/v3.8/RayMacHFO3.8.6.200.exe",
   "notes": [
     "Added Bills Combination For Cashier",
     "Added F4 Key to Retrieve Bills",
-    "Added Mobile Payments Processor for NCBA, Equity & Mpesa"
+    "Added Mobile Payments Processor for NCBA, Equity & Mpesa",
+    "Capture Waiter Service Till"
   ]
 }
